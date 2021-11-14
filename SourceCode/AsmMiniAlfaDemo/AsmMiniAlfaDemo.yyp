@@ -1,0 +1,1709 @@
+{
+    "id": "ab86d630-6de0-4f53-adca-d6a7e7f51ab8",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "aca2852f-a2dc-4f2d-b07a-6fbfd0286648",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "9d0ff32a-35a5-4bcd-a4bd-d8e8b15d5c26",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "023ae427-5d2a-45f1-b137-9941b84d29ca",
+            "Value": {
+                "id": "04863a30-a60c-4d1b-83f7-6fa60c183681",
+                "resourcePath": "sprites\\ProfitLossSprite\\ProfitLossSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "037e239a-db7e-456d-83e1-81a95c5ff3c7",
+            "Value": {
+                "id": "9d8bb2de-a83b-4261-ad59-9f1064a854d2",
+                "resourcePath": "sprites\\MenuBackgroundSprite\\MenuBackgroundSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "050cadc0-b298-4c60-9f1b-1ea66d571fcb",
+            "Value": {
+                "id": "81b043b8-3be5-450e-bbc2-74febdcb993e",
+                "resourcePath": "scripts\\ToView2\\ToView2.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "061877a3-88b9-492d-8aa6-f481d40a1de2",
+            "Value": {
+                "id": "7501c381-4cf1-4f2e-9d3c-a3d2eb1a2d1b",
+                "resourcePath": "objects\\MySharesTitle\\MySharesTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08a65798-2fea-4525-a657-c6da73bdc12c",
+            "Value": {
+                "id": "7ac3f645-3a2d-4f64-946a-7e4a94543b2d",
+                "resourcePath": "objects\\FalconsMyShares\\FalconsMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ad95616-9aad-4ee9-bfb8-8c0d91cb36fb",
+            "Value": {
+                "id": "9eccd5f5-e648-4959-bb85-790a3a993c91",
+                "resourcePath": "objects\\Entry\\Entry.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ae35b67-1518-4a55-9f9a-480c5fff80f1",
+            "Value": {
+                "id": "9c8c65fa-58c9-420b-95e2-86dfca28913e",
+                "resourcePath": "objects\\FalconsSellPrice\\FalconsSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0b705efa-c962-4f1f-8b11-08e6660b2794",
+            "Value": {
+                "id": "cec5dae4-5482-4a76-8fde-a3d4152ae07a",
+                "resourcePath": "objects\\TexansMyShares\\TexansMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0c2e1396-32df-435b-ad7f-0b06f35f91d7",
+            "Value": {
+                "id": "9e82350e-5138-4d27-9faa-39a7c5d0e498",
+                "resourcePath": "sounds\\TouchdownSound\\TouchdownSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "0ce6ee20-8a1f-433d-ab1b-bb243ac3a8bd",
+            "Value": {
+                "id": "5ac8bbb8-2f5c-440d-9574-8bcf2b5eeb68",
+                "resourcePath": "objects\\Quarter\\Quarter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0fcf764f-a6ad-44d8-aafe-736e1726c5c9",
+            "Value": {
+                "id": "61adae29-f042-4243-b136-88677179c0d3",
+                "resourcePath": "objects\\MyShares\\MyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "12eb0113-d315-4c3e-a485-2c064feb79c7",
+            "Value": {
+                "id": "887e79be-2941-4285-807a-20135ba818a7",
+                "resourcePath": "sprites\\DallasCowboysSprite\\DallasCowboysSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1439e988-d455-461f-87ef-8684ee30788e",
+            "Value": {
+                "id": "e2ac7eee-04a6-419c-ae0e-ea5482cd1ea9",
+                "resourcePath": "sprites\\ButtonDefaultSprite\\ButtonDefaultSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "147d05cd-a6d8-42c5-a47a-83601855bc39",
+            "Value": {
+                "id": "fa52f963-b274-4f8c-a057-e32c279f3670",
+                "resourcePath": "sprites\\ButtonWhiteSprite\\ButtonWhiteSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "149c8014-c756-4434-9ec7-3b4f6e322f81",
+            "Value": {
+                "id": "624712d8-4a7a-4581-8ccf-34aa40d350e8",
+                "resourcePath": "sprites\\StocksSprite\\StocksSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "153bf50a-273f-46c8-855b-c812a89c4350",
+            "Value": {
+                "id": "a2cf17d7-a6c9-432a-b5ff-727a7c430a8d",
+                "resourcePath": "sprites\\sprite35\\sprite35.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "15a92c67-c565-4de9-a1f6-a7574a73f2e2",
+            "Value": {
+                "id": "9b40753e-62c2-4442-a3ae-301686032068",
+                "resourcePath": "scripts\\ToView4\\ToView4.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "16bc420f-0137-458c-9b70-296ed067c555",
+            "Value": {
+                "id": "8a55f587-6f3a-4de9-be7e-f19959884056",
+                "resourcePath": "objects\\TennesseeTitansStockMarketObj\\TennesseeTitansStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "170c48a7-8c69-4305-9a7d-982702d0b85c",
+            "Value": {
+                "id": "6f367733-0366-4204-8831-2d258e6a528d",
+                "resourcePath": "objects\\Button\\Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1734e402-f212-44fe-b286-64fd6047862f",
+            "Value": {
+                "id": "9d47ca53-0388-4f40-8088-b7fdd1f5863c",
+                "resourcePath": "sprites\\Text1\\Text1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "17ba5178-575e-4d8f-868c-15dd7e84c10a",
+            "Value": {
+                "id": "58bbd90b-8622-4ddf-b766-1dfb543f0f99",
+                "resourcePath": "sounds\\ButtonClickSound\\ButtonClickSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "191da221-d3b2-425b-abbd-5d57b096772b",
+            "Value": {
+                "id": "6472e2c7-5139-4df2-8ff7-b61dbf3d1cc0",
+                "resourcePath": "scripts\\GoToTutorialRoomScript\\GoToTutorialRoomScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1a507398-9acd-4c31-8c1b-7099b66f3692",
+            "Value": {
+                "id": "eba35016-efbb-432d-bb9d-a3b61c323dab",
+                "resourcePath": "objects\\ChiefsDividendPayout\\ChiefsDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1b548616-500b-41d6-b709-ec332e1b7290",
+            "Value": {
+                "id": "a52d15d6-ac55-4e25-9fcc-c29860dd0c32",
+                "resourcePath": "sprites\\BarSprite\\BarSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c5c4bcc-fb4a-4756-8c17-a5726dcb5993",
+            "Value": {
+                "id": "bb8da385-b5b9-4935-a4ff-9e9f5d9a8804",
+                "resourcePath": "sprites\\AtlantaFalconsSprite\\AtlantaFalconsSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1cc8e143-6d24-4454-bbe4-b31980a567d7",
+            "Value": {
+                "id": "affdb838-37ec-4d3b-8f8a-d8ed0400fd11",
+                "resourcePath": "objects\\ArizonaCardinalsStockMarketObj\\ArizonaCardinalsStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1d2f69f6-babd-485b-9ad2-b491195bc112",
+            "Value": {
+                "id": "bc32b944-05d0-4e90-9ce3-d20c4fa8a8ca",
+                "resourcePath": "objects\\StocksTitle\\StocksTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1d5fcfe1-1abf-4552-9d02-fcf8996d2687",
+            "Value": {
+                "id": "91c89dbc-1e63-4998-b5b9-2945648420d0",
+                "resourcePath": "sprites\\QuarterSprite\\QuarterSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1dafbade-8c74-496e-bba7-06ca58a10faf",
+            "Value": {
+                "id": "15bae043-9160-460f-8b18-1dc03e891d59",
+                "resourcePath": "views\\1dafbade-8c74-496e-bba7-06ca58a10faf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1e54f67e-287c-4018-9622-b55eb3301e33",
+            "Value": {
+                "id": "48b8c8c1-b8b8-4814-80db-d8eb61a513ff",
+                "resourcePath": "objects\\PopupBox\\PopupBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1fdad46c-7da2-4651-b0db-55d0fe9bac18",
+            "Value": {
+                "id": "83f6a495-6878-4d10-91ce-7544ab07b5ff",
+                "resourcePath": "sprites\\GreenBayPackersStockMarketSprite\\GreenBayPackersStockMarketSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2205b0ff-9d53-402d-afe4-917f9439deab",
+            "Value": {
+                "id": "7181a4c1-c7a9-43e2-87ab-029a6dae082d",
+                "resourcePath": "objects\\SchedulerThirdView\\SchedulerThirdView.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "230a8536-5def-4dd4-9eb9-76332be3903f",
+            "Value": {
+                "id": "22ffc1f2-3d85-43cc-bdfc-2e068e8724c7",
+                "resourcePath": "sounds\\MainMenuBackgroundSound\\MainMenuBackgroundSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "23fa95a6-363f-40f1-b7ef-38891ad96d09",
+            "Value": {
+                "id": "d001c7f7-6d66-4001-9779-359a572e7a23",
+                "resourcePath": "views\\23fa95a6-363f-40f1-b7ef-38891ad96d09.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2541ede0-6898-4b23-86b2-997071b2aaa5",
+            "Value": {
+                "id": "a2d13ecf-a3e6-4c34-9224-4d47d3ca3a48",
+                "resourcePath": "rooms\\MenuRoom\\MenuRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "271804c1-c4dc-4615-b544-d25b4aad7d37",
+            "Value": {
+                "id": "8921d8ed-5ad0-4d08-8938-c75fd45d6a3e",
+                "resourcePath": "sprites\\DividendTitleSprite\\DividendTitleSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27ab0c63-fbb1-4edd-93e3-ba611c04666f",
+            "Value": {
+                "id": "446ab8bc-238e-4fe0-b65b-b9fda4deee25",
+                "resourcePath": "sprites\\AcctValueSprite\\AcctValueSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29bddaa7-ea08-4346-a3b6-b81e0d35ad3f",
+            "Value": {
+                "id": "d7a03769-22a9-4352-b641-ce47be10063b",
+                "resourcePath": "views\\29bddaa7-ea08-4346-a3b6-b81e0d35ad3f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a1683a3-0683-462a-87b7-d5fb7a83d991",
+            "Value": {
+                "id": "c28f2e96-d2c4-4f74-8772-08f12da9f35c",
+                "resourcePath": "views\\2a1683a3-0683-462a-87b7-d5fb7a83d991.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2b5f158d-3bc6-4b46-9c90-478c753c0720",
+            "Value": {
+                "id": "4658f42b-a062-40eb-94ea-cf83012adb4d",
+                "resourcePath": "objects\\RamsBuyPrice\\RamsBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2dd95357-5e91-4e63-96bc-7f1df9c0e428",
+            "Value": {
+                "id": "8d830058-45c5-4ca4-915d-bbf9a895ee00",
+                "resourcePath": "objects\\CardinalsBuyPrice\\CardinalsBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "324ffb52-db82-4180-a431-f56ec7db6d2d",
+            "Value": {
+                "id": "18628afb-0298-4add-8451-6683f12d1652",
+                "resourcePath": "sprites\\SideboxSprite\\SideboxSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "33b53a7f-af12-4941-bae3-dec548aa99f7",
+            "Value": {
+                "id": "7ab71483-49a0-405e-9bdb-670707ae30f8",
+                "resourcePath": "sprites\\BuyPriceSprite\\BuyPriceSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "370f94a0-e921-497a-93bd-a7ced2c3014e",
+            "Value": {
+                "id": "90a8e08e-6f86-45fa-a66c-6f3321ea7dbd",
+                "resourcePath": "sprites\\sprite41\\sprite41.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3746631c-5e17-442f-ab5f-eb26a104af84",
+            "Value": {
+                "id": "650cc3ee-5e71-4c47-95d2-01629118b4b1",
+                "resourcePath": "scripts\\ButtonDefaultAction\\ButtonDefaultAction.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3a863353-6629-411c-999d-554ebcb7fbbd",
+            "Value": {
+                "id": "49488138-21bf-4ee6-9592-cc757d899cf0",
+                "resourcePath": "fonts\\InstructionBoxFont\\InstructionBoxFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "3c241c78-9170-4d5c-8245-6b8a36edc2f1",
+            "Value": {
+                "id": "3dbb4552-a111-403e-babc-d2003bc5afb7",
+                "resourcePath": "objects\\SchedulerFirstView\\SchedulerFirstView.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "40f154f8-4611-464e-a76b-4019f220707a",
+            "Value": {
+                "id": "1f0c5ecc-9f97-42c3-92bd-9d745ebbb44b",
+                "resourcePath": "scripts\\GoToMainMenuScript\\GoToMainMenuScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "421bc651-23e6-4b39-a1d3-c764f7ce5b85",
+            "Value": {
+                "id": "c2697e50-9882-48ac-8078-d443ed766f56",
+                "resourcePath": "objects\\AccountTitle\\AccountTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42af546b-ea76-4a1e-91a4-fa36039e26c4",
+            "Value": {
+                "id": "8d61046c-f084-49c6-9f98-e15c77418f5b",
+                "resourcePath": "objects\\Link\\Link.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "430f86a4-7f76-4ced-868e-b7e4c5974d23",
+            "Value": {
+                "id": "0e7f0657-5580-454c-aa36-0d098ba3badd",
+                "resourcePath": "scripts\\SwitchLinkSpriteScript\\SwitchLinkSpriteScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4312be02-1696-4ca1-b288-1a0832c50982",
+            "Value": {
+                "id": "c7ae4725-a686-4259-a3ae-368b6343d634",
+                "resourcePath": "sprites\\Text6\\Text6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "439211b3-048f-43da-9f27-8c22ab8fb275",
+            "Value": {
+                "id": "3b33a465-4b07-48f7-9141-96261d3e117e",
+                "resourcePath": "sprites\\TeneseeTitansSprite\\TeneseeTitansSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4685004b-2535-4b24-b5ed-e9017e8bd37f",
+            "Value": {
+                "id": "3b68e713-a45d-4b14-9533-7175a9d250b9",
+                "resourcePath": "sprites\\ButtonWhiteSprite2\\ButtonWhiteSprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "475f22cd-967d-46d8-9e07-264b11eaf49f",
+            "Value": {
+                "id": "27173510-0b51-4eb0-8b09-5b0741127730",
+                "resourcePath": "scripts\\GoToView2\\GoToView2.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4aeb3a56-1c1a-4729-b535-c8fe03555559",
+            "Value": {
+                "id": "ffe86515-e8b7-4d9a-865a-5daf70e00a53",
+                "resourcePath": "objects\\TennesseeTitans\\TennesseeTitans.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c8a0f7a-7acf-45ce-aa17-edc8b8d35a5c",
+            "Value": {
+                "id": "d20f1c4b-650b-4321-ad53-718439c446cc",
+                "resourcePath": "objects\\CowboysDividendPayout\\CowboysDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4d09d772-490c-4134-ac79-67bc407988ad",
+            "Value": {
+                "id": "676f8cc2-a5e1-4e36-9562-f288e5c932f0",
+                "resourcePath": "objects\\HoustonTexansStockMarketObj\\HoustonTexansStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4da9b427-978e-4406-9713-5e260fd07899",
+            "Value": {
+                "id": "42355383-d2d1-4dcc-9d37-317c628ebc0e",
+                "resourcePath": "sprites\\Text3\\Text3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5064f1be-42df-4e29-82f0-19fda5156a79",
+            "Value": {
+                "id": "72f6baf2-762a-4a24-af8a-c8837d2b9d1d",
+                "resourcePath": "views\\5064f1be-42df-4e29-82f0-19fda5156a79.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "51a5c826-b230-47cd-ab25-a4d0a51ae66d",
+            "Value": {
+                "id": "d0b12f8a-2c77-42e5-bd7a-81c5c63a1487",
+                "resourcePath": "scripts\\GoToGameRoomScript\\GoToGameRoomScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "53164893-6cb9-44f7-9882-6ef91ceefea6",
+            "Value": {
+                "id": "b7831032-1a76-41a0-9ec1-81a47943c3c0",
+                "resourcePath": "objects\\TutorialCloudBox\\TutorialCloudBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5494f0e7-d750-4398-9ca7-922abc259bbf",
+            "Value": {
+                "id": "e2ca8f56-f86d-4536-aeb4-507fb4304276",
+                "resourcePath": "scripts\\GoToCreditsRoomScript\\GoToCreditsRoomScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "54b08f49-8905-4360-b66a-9ed60e2d998a",
+            "Value": {
+                "id": "acc8a452-4800-4f63-8f85-30db7ba7103d",
+                "resourcePath": "objects\\GameQueueLink\\GameQueueLink.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5637dec8-73cb-470f-9b0e-0bbdbda848af",
+            "Value": {
+                "id": "38b72490-b94b-49aa-b041-216777822486",
+                "resourcePath": "objects\\Sidebox\\Sidebox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5639a82d-5bea-47e9-b279-d23652cce3ff",
+            "Value": {
+                "id": "ef588565-2f59-4efb-8600-959657496b99",
+                "resourcePath": "objects\\DividendBrowns\\DividendBrowns.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "563c8957-46c8-47a1-9b25-31c4c23c435a",
+            "Value": {
+                "id": "0a14d9b6-6e67-4e6c-bb77-2c0a8f2e3102",
+                "resourcePath": "views\\563c8957-46c8-47a1-9b25-31c4c23c435a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59b3dd3a-d7a5-455e-a26b-9bceb64377dc",
+            "Value": {
+                "id": "7259d900-100b-4c22-9438-8babfca64007",
+                "resourcePath": "objects\\TexansSellPrice\\TexansSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ad859a1-a440-4e32-b7cf-b8bf7a41bf51",
+            "Value": {
+                "id": "48209260-5c9b-454a-b252-4c7fa79c0f36",
+                "resourcePath": "objects\\Game\\Game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c92d307-a49d-4b68-9031-0496a6661251",
+            "Value": {
+                "id": "35813380-ca07-4758-aed6-48e8c0b7c8a8",
+                "resourcePath": "sprites\\KansasCityChiefsSprite\\KansasCityChiefsSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5c98f304-3410-48e6-b5c8-aa0e7ded3c6c",
+            "Value": {
+                "id": "3c6a7c63-0d78-41e3-ba6e-f5163b747e64",
+                "resourcePath": "sprites\\Text5\\Text5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e6d1de3-84d7-4009-ae60-fb4dcea46819",
+            "Value": {
+                "id": "4a9a84e1-b6b5-4927-8334-30dacbd01e6f",
+                "resourcePath": "scripts\\PauseScript\\PauseScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5f935c76-b31a-4b13-bb34-c8ba9c40fb5f",
+            "Value": {
+                "id": "bcff23ee-fb83-4828-bb27-4c88ba533f74",
+                "resourcePath": "sprites\\BackgroundSprite\\BackgroundSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6131f64a-41f0-43a7-924b-6d640a643c2b",
+            "Value": {
+                "id": "1b62e54b-873a-42d1-867a-75953fa4e2b1",
+                "resourcePath": "objects\\GoToViewLink\\GoToViewLink.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "620ee94b-ea35-478e-81ea-62aec30374a0",
+            "Value": {
+                "id": "579dd146-8207-4422-ada9-5ac177a4a9ee",
+                "resourcePath": "objects\\TexansBuyPrice\\TexansBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66ab099c-a694-4c3d-8293-0e1ec82a1635",
+            "Value": {
+                "id": "5c3c26da-d539-4d90-9cda-8cf90122a77e",
+                "resourcePath": "objects\\RamsSellPrice\\RamsSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66cf9cf7-1ff9-4363-8673-815434359220",
+            "Value": {
+                "id": "bcfda39d-b4a7-4635-a047-f8283d1d1420",
+                "resourcePath": "sprites\\Text10\\Text10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69a57024-f73d-4929-b958-ce4d4a298d47",
+            "Value": {
+                "id": "e5cc1985-541c-4754-910d-b1242d0265f5",
+                "resourcePath": "objects\\GreenBayPackersStockMarketObj\\GreenBayPackersStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6a47abb8-d064-4017-8df6-54ec83d4d272",
+            "Value": {
+                "id": "5e348136-6e4c-46df-b57e-1ac4dc4fdc63",
+                "resourcePath": "sprites\\TutorialSprite\\TutorialSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6a8b6d6c-5dbc-4a6e-b574-d7a985d26905",
+            "Value": {
+                "id": "f4e8aa41-6007-4457-a271-36d9f82f1a5b",
+                "resourcePath": "sprites\\GreenBayPackersSprite\\GreenBayPackersSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b0cc0e4-e481-4b85-9e1d-092f46d50e2f",
+            "Value": {
+                "id": "ff7611fe-ad66-4ba2-a446-64c13d0e9409",
+                "resourcePath": "sounds\\GameBackgroundSound\\GameBackgroundSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6b16ab48-54d2-4569-8484-640fa3e1fb9d",
+            "Value": {
+                "id": "6d23b033-0a1c-4f82-94c0-14fc7d679e18",
+                "resourcePath": "objects\\PackersBuyPrice\\PackersBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b7886cd-9ec0-452b-8588-67054e4deebc",
+            "Value": {
+                "id": "96769532-fe1b-4a54-96a8-bff7ff60176c",
+                "resourcePath": "objects\\TitansBuyPrice\\TitansBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c79c77c-6cfe-4792-8915-1b88ddd209fa",
+            "Value": {
+                "id": "da38919b-8ae4-458d-a93c-8c15f2b8fe4c",
+                "resourcePath": "objects\\Controller\\Controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6d500c28-9a8f-4ebc-bfc5-7c0c58d56495",
+            "Value": {
+                "id": "3b4bb989-44a2-4cd3-a9cd-f2b32bb3db3a",
+                "resourcePath": "views\\6d500c28-9a8f-4ebc-bfc5-7c0c58d56495.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e7d8e24-8ab8-4fcc-af22-9af2f0e843c1",
+            "Value": {
+                "id": "f3aa5ef7-f2dc-40b9-8bba-8656c9a21a08",
+                "resourcePath": "sprites\\CurrentGamesTitleSprite\\CurrentGamesTitleSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "71e02e84-89ad-47b0-96e4-20f8762d7b5a",
+            "Value": {
+                "id": "21690931-502a-4c19-b337-c6a6edeed810",
+                "resourcePath": "objects\\Bar\\Bar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72491324-c11f-4f9c-8310-e97673830a32",
+            "Value": {
+                "id": "8fe17d53-8ef9-4cf2-bf22-f3451ddc44b2",
+                "resourcePath": "objects\\TradesTitle\\TradesTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7554e9d9-fadb-4ff8-b28d-a55e17080d07",
+            "Value": {
+                "id": "10a48c2a-b6ef-429d-b0fb-cc11f58ae431",
+                "resourcePath": "objects\\Logo\\Logo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7562e776-6143-49cb-b92e-4550423dd07f",
+            "Value": {
+                "id": "379f4484-f920-45f0-af97-08930cb4ea87",
+                "resourcePath": "sprites\\buttonSprite\\buttonSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "54d4e9fa-c713-41c3-b310-9a6232f30917",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7619c354-9fbe-4f5f-9eab-142d60460f4a",
+            "Value": {
+                "id": "ad5d6568-11e8-4d85-b2c5-7b3b68bc3196",
+                "resourcePath": "fonts\\PopupFont\\PopupFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "761b26ae-31be-4a94-91df-96325659be36",
+            "Value": {
+                "id": "781f22e7-ecb0-4cfe-938b-53cac2206ba4",
+                "resourcePath": "objects\\CardinalsMyShares\\CardinalsMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76ff2a67-9149-42ef-90c2-e974372e8829",
+            "Value": {
+                "id": "b2c51848-ba50-4bb1-b887-174a6fb048c2",
+                "resourcePath": "objects\\ProfitLoss\\ProfitLoss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "77e35758-b1a4-403d-8702-4fd7d4ca6237",
+            "Value": {
+                "id": "f81e1fe7-e51d-43ac-9ee0-a992e21fa8f9",
+                "resourcePath": "objects\\KansasCityChiefs\\KansasCityChiefs.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7866bf0d-4fb5-43f1-9f48-0c2522896375",
+            "Value": {
+                "id": "4f81af22-00ce-4ad1-b447-7ab6f549dfe6",
+                "resourcePath": "objects\\CashTitle\\CashTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7904f80b-5606-48f9-adee-29be067c0462",
+            "Value": {
+                "id": "fc869f31-312f-4fa7-9c35-61a8e772ddf3",
+                "resourcePath": "sprites\\TradesTitleSprite\\TradesTitleSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "791aaf12-f720-4114-9c5d-ab40b69cb073",
+            "Value": {
+                "id": "381dfbc9-20e6-4e3d-af2f-33a67f038a68",
+                "resourcePath": "sprites\\KansasCityChiefsSpriteForStockMarket\\KansasCityChiefsSpriteForStockMarket.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b62e9f0-1fde-4cd7-bae6-2848c008f8a1",
+            "Value": {
+                "id": "75225f08-0779-44b6-9782-64f31d8af620",
+                "resourcePath": "views\\7b62e9f0-1fde-4cd7-bae6-2848c008f8a1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c8250b7-1f34-40a4-9afb-0b369161f595",
+            "Value": {
+                "id": "df0a1d5e-a154-4186-afda-e4f6d0813b4a",
+                "resourcePath": "objects\\CowboysSellPrice\\CowboysSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7d158235-6292-4723-af7f-c45d79a3142e",
+            "Value": {
+                "id": "b6f157dd-1ee4-45c1-8048-c2005a6d3398",
+                "resourcePath": "objects\\Dividend\\Dividend.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7f4a0d54-e411-4a43-ba4a-f975799ab3ca",
+            "Value": {
+                "id": "ac24b008-73b9-4a61-908d-8a23161f17cc",
+                "resourcePath": "views\\7f4a0d54-e411-4a43-ba4a-f975799ab3ca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f6973ea-0dfb-46c6-ab17-cab14a256378",
+            "Value": {
+                "id": "31b0bfcc-db40-4202-98a2-97445e9c2e98",
+                "resourcePath": "sprites\\LogoSprite\\LogoSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "80f0d396-5731-430f-8cb3-69cd342405ec",
+            "Value": {
+                "id": "4eb685dd-5ca0-42ec-818a-d6b77224572f",
+                "resourcePath": "sounds\\ButtonBuySound\\ButtonBuySound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "819b35f4-df06-4289-93d7-630a530e8c5b",
+            "Value": {
+                "id": "59dfec3f-f0bc-4508-b2d0-c8b4decb60f5",
+                "resourcePath": "sprites\\Text8\\Text8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "82667483-0611-4ce3-9fb7-e90066635971",
+            "Value": {
+                "id": "f4b00aea-4469-4264-b891-c370df1aa12c",
+                "resourcePath": "sprites\\sprite40\\sprite40.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8406686d-8cd4-4621-a208-b5d64e717709",
+            "Value": {
+                "id": "e1d1f6c0-6536-4565-9247-75915dd4f60d",
+                "resourcePath": "objects\\ChiefsBuyPrice\\ChiefsBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "844ad98e-1388-4f5f-8213-b40ca6302c80",
+            "Value": {
+                "id": "184589de-f6de-4a54-b267-81efa882b9b2",
+                "resourcePath": "sprites\\GoToViewSprite\\GoToViewSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85a6e7fa-f6a0-45bd-a17f-196de90304f9",
+            "Value": {
+                "id": "4cdb46d7-2212-44a8-b6a4-5c94b97c816c",
+                "resourcePath": "objects\\FalconsBuyPrice\\FalconsBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8697184d-1b91-44bd-a23e-ba3de1d18370",
+            "Value": {
+                "id": "18d3f56a-dc74-4b71-af8b-a22f7fe4ceb5",
+                "resourcePath": "views\\8697184d-1b91-44bd-a23e-ba3de1d18370.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8a167693-ef89-4033-af17-88c38be83bda",
+            "Value": {
+                "id": "aa772b45-126e-4434-b274-bb85a22a9d10",
+                "resourcePath": "objects\\FalconsDividendPayout\\FalconsDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b7f728c-3d7f-4387-a153-c77ccc8a23a6",
+            "Value": {
+                "id": "d0b58e60-691a-46fd-accb-a59b37419455",
+                "resourcePath": "scripts\\ToView3\\ToView3.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8d68023e-8963-4ff9-afc5-331cd32cee60",
+            "Value": {
+                "id": "d8982529-b0ec-4214-8a07-b9878906b187",
+                "resourcePath": "sprites\\PopupSprite\\PopupSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d979c26-7074-4b5a-b4e4-6637e3f4d224",
+            "Value": {
+                "id": "e1a76ac0-74d6-4b79-a250-32e948864cb5",
+                "resourcePath": "objects\\StockMarketSellButton\\StockMarketSellButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ece02b6-61df-4c40-b313-cc902bbc4933",
+            "Value": {
+                "id": "f7b7be9e-7151-4a2f-a0ff-59f955a510cd",
+                "resourcePath": "views\\8ece02b6-61df-4c40-b313-cc902bbc4933.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ed3f88c-a019-4ba2-836a-11022f5ec318",
+            "Value": {
+                "id": "b76e74f3-6686-4cd9-8e21-9a1085340201",
+                "resourcePath": "objects\\CowboysBuyPrice\\CowboysBuyPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "91dfb9f7-fc50-4124-b193-89d517114063",
+            "Value": {
+                "id": "d9cb5643-af34-49be-ab75-5611adfda092",
+                "resourcePath": "objects\\CardinalsDividendPayout\\CardinalsDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "92ed510e-f79f-4c73-8e61-73927fe304e7",
+            "Value": {
+                "id": "6149874c-e24d-4b41-8efa-5671f3796082",
+                "resourcePath": "views\\92ed510e-f79f-4c73-8e61-73927fe304e7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "94484ef7-026b-44cf-929b-50dae376469e",
+            "Value": {
+                "id": "583499ef-fa68-49c2-a358-73a39f78a6d4",
+                "resourcePath": "sprites\\Text2\\Text2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9652e093-cbc6-4184-80fe-326dc22c1f10",
+            "Value": {
+                "id": "7a0fbb59-f90c-456b-b1a5-e3c8dd299979",
+                "resourcePath": "sprites\\InstructionBoxTitleSprite\\InstructionBoxTitleSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "987c21be-eabc-4d1e-8d53-0c93f6f29cef",
+            "Value": {
+                "id": "2c03f16c-c635-4a79-aa9c-de7945b3547b",
+                "resourcePath": "objects\\ArizonaCardinals\\ArizonaCardinals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9898286d-3377-4a68-b5f8-f7a2f7e01faa",
+            "Value": {
+                "id": "1baaafca-207d-4930-8403-3ce17524112d",
+                "resourcePath": "objects\\RamsMyShares\\RamsMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "99659678-a418-4fc1-baf9-e1373ca6c786",
+            "Value": {
+                "id": "ce3a7f83-91a9-4ba5-a55b-e187922fd6c5",
+                "resourcePath": "views\\99659678-a418-4fc1-baf9-e1373ca6c786.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "99de61a2-0217-4d16-a18b-e769d6de9bba",
+            "Value": {
+                "id": "0815e8b6-1ac6-47ac-8b8a-1535de510c41",
+                "resourcePath": "sprites\\Text7\\Text7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99e99e52-efe5-4da3-9a06-43ab5f6db1c3",
+            "Value": {
+                "id": "582ca566-476a-42e3-a36a-75e7150d7882",
+                "resourcePath": "objects\\Slider\\Slider.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9a974577-4724-48e8-b8cc-d61602ab7c81",
+            "Value": {
+                "id": "e38d2763-3e04-4e6c-9bfc-3272f86d7d2b",
+                "resourcePath": "sprites\\ButtonDefaultSprite1\\ButtonDefaultSprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b5ef9d7-dc73-4e41-87b6-fb819cd1a449",
+            "Value": {
+                "id": "cb7c7f40-d9c2-4644-9b50-453a67b82508",
+                "resourcePath": "objects\\DallasCowboys\\DallasCowboys.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9bcaedc8-8bdd-4d27-b41e-a1bfc052e1cb",
+            "Value": {
+                "id": "6b4a1ddd-38b6-405c-a8cd-8a23ac2856b4",
+                "resourcePath": "views\\9bcaedc8-8bdd-4d27-b41e-a1bfc052e1cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9deee17b-0b7a-4e56-b737-eb716d76abe8",
+            "Value": {
+                "id": "7d2a45d3-a0df-4cc4-96f5-0db0d0e8743e",
+                "resourcePath": "objects\\GreenBayPackers\\GreenBayPackers.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a05856d0-9dc1-4c8f-8c9a-0aa26871dfec",
+            "Value": {
+                "id": "c06a7f97-c93b-41cd-87e7-5447c1cef359",
+                "resourcePath": "objects\\Cash\\Cash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a1906e7f-d455-4ae0-a0b1-fa6c241325f0",
+            "Value": {
+                "id": "eddca4d9-5d22-4330-bb65-14fa695532b1",
+                "resourcePath": "objects\\CowboysMyShares\\CowboysMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a1f52c5a-22cf-4cba-b106-cf8b27693b00",
+            "Value": {
+                "id": "ee028c22-6d08-4021-a03c-7805989ac1d0",
+                "resourcePath": "objects\\TutorialScreenElement\\TutorialScreenElement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2a2b4c9-d81a-4638-ac8e-36e53a7d1e3c",
+            "Value": {
+                "id": "bb4ea507-02d5-45aa-a3a8-92bf904f7b23",
+                "resourcePath": "objects\\KansasCityChiefsStockMarketObj\\KansasCityChiefsStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2d6e153-e3c2-4ca8-9688-33093d3baed8",
+            "Value": {
+                "id": "83464921-2640-4278-ba22-37f04df14bd4",
+                "resourcePath": "objects\\WelcomeBox\\WelcomeBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2f17e37-49cf-4a2c-b2fb-bb76f17a689a",
+            "Value": {
+                "id": "e1f2409c-e414-4b6c-9263-007ca0660d2d",
+                "resourcePath": "sprites\\sprite30\\sprite30.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a33eb5f7-eecc-44f7-9f61-6eccc6f003fb",
+            "Value": {
+                "id": "b667db59-714f-493b-b91d-a11859ac57a6",
+                "resourcePath": "sprites\\Text4\\Text4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4527fca-2307-4fa5-8f52-f438c8e615ad",
+            "Value": {
+                "id": "5018af46-b769-4ec7-8bd5-1591df8188da",
+                "resourcePath": "sprites\\EntrySprite\\EntrySprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a8289b8d-ceac-4e5f-8d4f-fd098621e2ca",
+            "Value": {
+                "id": "2f7ddc53-2460-401b-ab24-165a26275bbb",
+                "resourcePath": "objects\\SchedulerSecondView\\SchedulerSecondView.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a8ff9ab5-0b0d-4207-87d6-f3795836bed3",
+            "Value": {
+                "id": "052f637d-3f42-4677-82ae-d607b5d56b5a",
+                "resourcePath": "objects\\GameQueue\\GameQueue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "2633e378-07a0-4f8c-b973-db18803c702d",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aed6770e-e7f2-404c-8a44-0b8aad89ddc6",
+            "Value": {
+                "id": "92ca0dbf-36bd-4274-bb7a-288f668d7133",
+                "resourcePath": "objects\\LosAngelesRams\\LosAngelesRams.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b2055e82-5c8f-4827-8ddd-be1ce109aad4",
+            "Value": {
+                "id": "bfe410df-6650-4b02-b699-d332020a5f31",
+                "resourcePath": "views\\b2055e82-5c8f-4827-8ddd-be1ce109aad4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b293bba6-9b20-42a1-aae4-5523ac432e76",
+            "Value": {
+                "id": "191a2070-2e26-465b-af9e-5af2918f0c31",
+                "resourcePath": "sprites\\CreditsRoomBackgroundSprite\\CreditsRoomBackgroundSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b41e6c54-8f81-4396-9ac6-fe32b3440c56",
+            "Value": {
+                "id": "65ecb22a-c15f-465f-a08d-a0fd7d056b38",
+                "resourcePath": "views\\b41e6c54-8f81-4396-9ac6-fe32b3440c56.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6baf9ca-9188-40eb-99e8-09178eb61a61",
+            "Value": {
+                "id": "e2a320ff-d009-486a-acb0-b475d97a99a3",
+                "resourcePath": "views\\b6baf9ca-9188-40eb-99e8-09178eb61a61.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b837b080-cd7e-4c45-bb86-5b1498ac3721",
+            "Value": {
+                "id": "98f014ba-7629-465c-a231-9460a8fb340e",
+                "resourcePath": "objects\\StockMarketBuyButton\\StockMarketBuyButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b85ec380-abc9-4886-bba2-36e1b970670f",
+            "Value": {
+                "id": "9e559a75-0e2d-41e4-ab3e-f50bcfbc913c",
+                "resourcePath": "sprites\\TutorialCloudBoxSprite\\TutorialCloudBoxSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b9d2862a-87ba-45ae-adf8-85c915110e95",
+            "Value": {
+                "id": "1d0bafe9-21d7-41f8-89a3-7026abc6d1d2",
+                "resourcePath": "views\\b9d2862a-87ba-45ae-adf8-85c915110e95.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba1578db-eb4d-4379-a634-3f1613183a09",
+            "Value": {
+                "id": "b9dbdede-0048-4e76-8f47-acc9a00eba8f",
+                "resourcePath": "sprites\\LosAngelesRamsSprite\\LosAngelesRamsSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba91727f-b595-48fd-81f5-cc1e2ec2ff1a",
+            "Value": {
+                "id": "4ff3bcc6-3c62-4be7-85f2-390a315c46d0",
+                "resourcePath": "sprites\\GameRoomBackgroundSprite\\GameRoomBackgroundSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc4d0e61-ac1d-4e9c-8284-5e8d02cf64ae",
+            "Value": {
+                "id": "b63fefda-fcad-49f2-ac91-8a7d15094e50",
+                "resourcePath": "objects\\Market\\Market.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd2b191b-c282-4f2d-9805-bd829db8fad6",
+            "Value": {
+                "id": "a9067fad-c24d-4f6b-bfb3-d1f998fbe598",
+                "resourcePath": "views\\bd2b191b-c282-4f2d-9805-bd829db8fad6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be877be6-fd8f-41bf-9dd0-cf7dd96a0cf5",
+            "Value": {
+                "id": "9e3be0f8-1721-4354-a465-6eee9b5db993",
+                "resourcePath": "objects\\PackersSellPrice\\PackersSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0fdd27b-52ae-498e-ab48-11411c14ce53",
+            "Value": {
+                "id": "75861b88-36af-45cd-a499-65176cdf8be5",
+                "resourcePath": "objects\\HoustonTexans\\HoustonTexans.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c2ad40d9-a272-4919-9cdb-70dc836c4a39",
+            "Value": {
+                "id": "d733d1e2-5b43-4937-9444-bfb4abc46c21",
+                "resourcePath": "fonts\\ButtonFont\\ButtonFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "c541f7b0-2e39-4cbe-a0b4-923dcd141657",
+            "Value": {
+                "id": "49a824a5-375a-40dd-8799-49e82d4804aa",
+                "resourcePath": "scripts\\ExitScript\\ExitScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c63ac364-4d7f-4b89-b846-b6ae21286943",
+            "Value": {
+                "id": "d8ae6c88-936f-44c6-831a-20e18fb4971a",
+                "resourcePath": "objects\\PackersMyShares\\PackersMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c647e11f-0d6f-4021-8d91-69abbedb7a13",
+            "Value": {
+                "id": "79e1ed4b-db7b-46e3-8dee-f1615d9ee0fd",
+                "resourcePath": "sounds\\TutorialRoomBackgroundSound\\TutorialRoomBackgroundSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c68544bb-5663-43f8-bc7e-93a01ed20c2e",
+            "Value": {
+                "id": "351032d3-2084-44d7-9211-d7b14c183a27",
+                "resourcePath": "objects\\DividendTitle\\DividendTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c7c8d7af-0b20-4387-8e44-8a8f4b642e9b",
+            "Value": {
+                "id": "8636a77c-775e-436f-89c6-3091b7ea2bba",
+                "resourcePath": "objects\\TitansSellPrice\\TitansSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ca0f4b7d-96af-448e-a0ca-bfd99dfd9d93",
+            "Value": {
+                "id": "c82695d6-50cb-43a7-b070-e88136322472",
+                "resourcePath": "views\\ca0f4b7d-96af-448e-a0ca-bfd99dfd9d93.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb5ad003-6c5b-474e-9150-db244e117b3e",
+            "Value": {
+                "id": "96c802b5-9ba5-4265-8cb7-50124c427a4b",
+                "resourcePath": "rooms\\GameRoom\\GameRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "0ca366db-edc1-4296-9b8f-59107bf2ac03",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccb445cf-0222-4711-9a84-8fefe9d5a4a5",
+            "Value": {
+                "id": "7a4843a2-222a-4747-97a8-8818a7287d98",
+                "resourcePath": "views\\ccb445cf-0222-4711-9a84-8fefe9d5a4a5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ce715d75-1d28-4b40-a902-abb75476d8e2",
+            "Value": {
+                "id": "c34fd999-4f37-4ca8-b651-5dc004bf7566",
+                "resourcePath": "objects\\LosAngelesRamsStockMarketObj\\LosAngelesRamsStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cee09cf2-53ee-4b4a-9df0-a6942ab2c137",
+            "Value": {
+                "id": "02e1f106-95b2-4ccb-acbc-dfce90ac2198",
+                "resourcePath": "views\\cee09cf2-53ee-4b4a-9df0-a6942ab2c137.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cfa5f102-c4f2-4daa-9639-be4aa135c084",
+            "Value": {
+                "id": "1d261417-7de3-479f-9a5d-ce6d0b19f5ce",
+                "resourcePath": "sounds\\ButtonSellSound\\ButtonSellSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d089f4c3-a910-4359-8708-0b0747d918e4",
+            "Value": {
+                "id": "3cde06b0-3117-4fa6-b6ff-090d89dc53aa",
+                "resourcePath": "sprites\\ArizonaCardinalsSprite\\ArizonaCardinalsSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0be33e5-46d1-4da1-971a-a36a6476279e",
+            "Value": {
+                "id": "af5d4943-ad19-4c5a-ba4c-c47616f4995f",
+                "resourcePath": "sprites\\SportsCoreLogoSprite\\SportsCoreLogoSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0f2223c-99a9-46a3-96a4-dbd82dc66586",
+            "Value": {
+                "id": "d1137199-03ab-4bef-8c3d-d7bb17f63610",
+                "resourcePath": "objects\\ProfitLossTitle\\ProfitLossTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d32ca6ab-7f21-4be6-b268-34be7644ca8f",
+            "Value": {
+                "id": "a1acf069-70e1-4dc8-90d6-9567e9a047b1",
+                "resourcePath": "sprites\\MySharesSprite\\MySharesSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d3917034-5eed-4f74-a361-2f7741153c99",
+            "Value": {
+                "id": "8c7b5926-19df-4be8-a575-3e4dc2056c65",
+                "resourcePath": "objects\\InstructionBoxTitle\\InstructionBoxTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4dd2ea6-ca22-443c-b4ca-b9f769b00410",
+            "Value": {
+                "id": "f7194855-2fe3-44f5-bdc4-361946f90be6",
+                "resourcePath": "scripts\\TradeScript\\TradeScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d58bd385-7983-46d4-9e24-bd31ade7b62c",
+            "Value": {
+                "id": "3b83ee88-0e11-4cdf-a61a-97e5b3ec080e",
+                "resourcePath": "sprites\\Text9\\Text9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d7482917-97d1-498c-87a0-5d671b4aa664",
+            "Value": {
+                "id": "c25554c1-479a-4e35-94e0-a06b7c0829d1",
+                "resourcePath": "objects\\AtlantaFalconsStockMarketObj\\AtlantaFalconsStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d87bb9e5-123c-483f-841d-59f545df89e6",
+            "Value": {
+                "id": "777e9b74-2b51-4e1a-a183-9902b9ba2995",
+                "resourcePath": "objects\\PackersDividendPayout\\PackersDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dd6f57d0-ee98-40ca-862c-b5ad7c88c6d2",
+            "Value": {
+                "id": "7f2ddf80-5cc7-4f57-8c51-11998916d55e",
+                "resourcePath": "sprites\\ButtonGoldenSprite\\ButtonGoldenSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ddfcf6b2-7d0e-4084-b916-ca7c38b5f8d0",
+            "Value": {
+                "id": "40fddac9-371a-4509-9110-31cbf69cfd45",
+                "resourcePath": "rooms\\CreditsRoom\\CreditsRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "dfbaa334-86c1-43a1-9966-91d591919d86",
+            "Value": {
+                "id": "5f0fa0fc-d39d-4c00-a0bb-6f1d4e72f947",
+                "resourcePath": "objects\\Stocks\\Stocks.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e0223608-2728-403b-9ff6-294434ac29ae",
+            "Value": {
+                "id": "2581da9b-ddf8-446f-834e-c244891a068a",
+                "resourcePath": "views\\e0223608-2728-403b-9ff6-294434ac29ae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e18d20be-5d55-4ddc-9741-921cd9fddd04",
+            "Value": {
+                "id": "f795c8e6-5f13-4f3b-b55d-b7cdde3ee644",
+                "resourcePath": "views\\e18d20be-5d55-4ddc-9741-921cd9fddd04.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e227ea63-c525-460f-8485-0fa49fd1a254",
+            "Value": {
+                "id": "6e73476c-2d46-4353-b18a-4afe6f223492",
+                "resourcePath": "views\\e227ea63-c525-460f-8485-0fa49fd1a254.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e27cfd8c-8efc-45ca-9247-b224723b9d65",
+            "Value": {
+                "id": "78179168-8b92-4412-9ce3-e646dce85254",
+                "resourcePath": "fonts\\ScoreFont\\ScoreFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "e6b6adc9-4499-4526-a36e-25e19d2f967a",
+            "Value": {
+                "id": "247aec6e-7204-4d50-916a-e07006e0535f",
+                "resourcePath": "objects\\TitansDividendPayout\\TitansDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e8cdd27d-4bdf-43a2-aa8b-8145442efe8f",
+            "Value": {
+                "id": "b782fb91-1011-402b-beb7-8ce5d678e4bc",
+                "resourcePath": "objects\\ChiefsMyShares\\ChiefsMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e913e299-a0d8-4cc0-bd74-3a1aa7e7660c",
+            "Value": {
+                "id": "5fda0924-f65b-470e-95de-cb08b0877977",
+                "resourcePath": "objects\\CurrentGamesTitle\\CurrentGamesTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ea97d000-e717-457c-bf8a-f5ed8703f4eb",
+            "Value": {
+                "id": "5dd317c5-ed6e-4f34-89d0-052a28157eb6",
+                "resourcePath": "objects\\TitansMyShares\\TitansMyShares.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eac13fcd-e984-4c07-b4ba-ba7813115d08",
+            "Value": {
+                "id": "55a5aa78-f9ac-4a1e-950e-e3f6aa918f4a",
+                "resourcePath": "views\\eac13fcd-e984-4c07-b4ba-ba7813115d08.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb11dacc-4112-4d7c-97fb-c5a560bdf503",
+            "Value": {
+                "id": "1223bbc7-adae-4a64-9d3f-d85f435eccda",
+                "resourcePath": "objects\\SchedulerFourthView\\SchedulerFourthView.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb1a3701-cf56-4084-b0f0-2fb9b76a817d",
+            "Value": {
+                "id": "72c9491b-9b31-45e3-a733-a594c990dd41",
+                "resourcePath": "rooms\\TutorialRoom\\TutorialRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ebfb88a8-e9d4-4af8-bce9-824fc6995b79",
+            "Value": {
+                "id": "d091da34-2638-4289-bd28-1eacd50fc3ce",
+                "resourcePath": "scripts\\GetInstruction\\GetInstruction.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ef887612-21fb-4e9e-badb-086f32f1d4d1",
+            "Value": {
+                "id": "7c14fbcc-b862-4148-834b-209f88871f06",
+                "resourcePath": "objects\\ChiefsSellPrice\\ChiefsSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "efd0b67f-ee0f-49a9-82c8-2dc6e807a765",
+            "Value": {
+                "id": "3210550e-a81f-4fcc-9fb5-282c6fb734e0",
+                "resourcePath": "scripts\\TutorialScript\\TutorialScript.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f0dde17a-8ccf-4a06-b2a7-896b81d92fd1",
+            "Value": {
+                "id": "a049a5d7-0fa4-46df-86e3-2a01f4be4a9b",
+                "resourcePath": "objects\\AccountValue\\AccountValue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1328b10-d5fc-4c05-8e5d-c2fbac83932f",
+            "Value": {
+                "id": "d56336e5-8018-46f8-be8d-7a26b9827e22",
+                "resourcePath": "sprites\\HoustonTexansSprite\\HoustonTexansSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f149d113-f2ae-48cf-a5c9-9d81a03ded99",
+            "Value": {
+                "id": "94b64cec-2959-455c-99a0-7bffff83770c",
+                "resourcePath": "sprites\\SliderSprite\\SliderSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1dc0650-b2ee-4a7f-a891-ef9928067026",
+            "Value": {
+                "id": "e04f5f96-5dca-47c9-8f3c-5375256660fe",
+                "resourcePath": "objects\\RamsDividendPayout\\RamsDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1de951f-b447-4d01-a619-75546d0c6127",
+            "Value": {
+                "id": "32b1615e-5fe5-4550-982d-dd5cf933b2b7",
+                "resourcePath": "objects\\Controller1\\Controller1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f409c972-ff20-471b-bf3f-1c5ba710b0af",
+            "Value": {
+                "id": "2c5b955f-3200-4051-927d-1a81373b282d",
+                "resourcePath": "objects\\AtlantaFalcons\\AtlantaFalcons.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "44ce074d-f25e-4823-825d-7b752d888e7f",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4ca9794-17ba-4fb7-8388-e63284c827f6",
+            "Value": {
+                "id": "400edaf4-b503-4aed-a267-79d8e7aea109",
+                "resourcePath": "objects\\DallasCowboysStockMarketObj\\DallasCowboysStockMarketObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f825d16c-405a-4ae1-9508-633a97df893f",
+            "Value": {
+                "id": "0c2bfce8-acd5-4108-a0f3-e3281d8ca499",
+                "resourcePath": "objects\\TexansDividendPayout\\TexansDividendPayout.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f84df678-2135-4ddc-9a29-7a1707ec6be9",
+            "Value": {
+                "id": "b243439a-a7d4-4856-90d5-41685b69e4e3",
+                "resourcePath": "sprites\\CashTitleSprite\\CashTitleSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f897b849-94cb-4b10-b85e-cd652cb72a28",
+            "Value": {
+                "id": "f4810355-27ec-4c4f-ba75-e4a0b8cb58d2",
+                "resourcePath": "objects\\CardinalsSellPrice\\CardinalsSellPrice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb118a41-a0a0-4115-9450-d1b91d37393f",
+            "Value": {
+                "id": "54b9414f-75d2-4590-a147-8cecb4dc45a4",
+                "resourcePath": "objects\\PriceTitle\\PriceTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fc489eaf-ae2b-4f13-9f9d-975a32e00cab",
+            "Value": {
+                "id": "12895a01-930d-4f48-b58a-3e0254273890",
+                "resourcePath": "fonts\\QuarterFont\\QuarterFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "fc5a4909-8e8e-4fa3-b907-c375cca6d80e",
+            "Value": {
+                "id": "94d414d7-8b41-432e-8c5b-27691934611b",
+                "resourcePath": "scripts\\ToView1\\ToView1.yy",
+                "resourceType": "GMScript"
+            }
+        }
+    ],
+    "script_order": [
+        "51a5c826-b230-47cd-ab25-a4d0a51ae66d",
+        "3746631c-5e17-442f-ab5f-eb26a104af84",
+        "475f22cd-967d-46d8-9e07-264b11eaf49f",
+        "15a92c67-c565-4de9-a1f6-a7574a73f2e2",
+        "fc5a4909-8e8e-4fa3-b907-c375cca6d80e",
+        "050cadc0-b298-4c60-9f1b-1ea66d571fcb",
+        "8b7f728c-3d7f-4387-a153-c77ccc8a23a6",
+        "5e6d1de3-84d7-4009-ae60-fb4dcea46819",
+        "40f154f8-4611-464e-a76b-4019f220707a",
+        "191da221-d3b2-425b-abbd-5d57b096772b",
+        "c541f7b0-2e39-4cbe-a0b4-923dcd141657",
+        "d4dd2ea6-ca22-443c-b4ca-b9f769b00410",
+        "ebfb88a8-e9d4-4af8-bce9-824fc6995b79",
+        "efd0b67f-ee0f-49a9-82c8-2dc6e807a765",
+        "5494f0e7-d750-4398-9ca7-922abc259bbf",
+        "430f86a4-7f76-4ced-868e-b7e4c5974d23"
+    ],
+    "tutorial": ""
+}
